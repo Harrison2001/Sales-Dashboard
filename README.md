@@ -4,6 +4,13 @@
 This project features an interactive **Sales Analytics Dashboard** built using **Power BI** and the **Superstore Sales dataset**.  
 The dashboard provides insights into sales performance across time, regions, and product categories to support data-driven decision making.
 
+## Dashboard Preview
+
+![Sales Dashboard Preview](images/dashboard_preview.png)
+
+*Interactive Power BI sales dashboard highlighting revenue trends and regional performance.*
+
+
 ## Key Features
 - **Total Sales KPI** with dynamic filtering
 - **Sales breakdown by Region, Category, and Season**
