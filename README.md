@@ -42,6 +42,3 @@ The dashboard provides insights into sales performance across time, regions, and
 - Add profit and margin analysis
 - Implement forecasting using time-series models
 - Create drill-through pages for deeper category analysis
-
-
-## ScreenShots
